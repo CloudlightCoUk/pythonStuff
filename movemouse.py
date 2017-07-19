@@ -6,7 +6,7 @@ from random import randint
 from pynput.mouse import Controller
 
 mouse = Controller()
-i = 60
+i = 120
 t = 60
 
 try:
