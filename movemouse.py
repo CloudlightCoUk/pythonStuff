@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+"""
+Moves the mouse pointer around the center of the screen to stop the computer going idle
+"""
+
 import sys
 import time
 from random import randint
