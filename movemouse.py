@@ -2,6 +2,9 @@
 
 """
 Moves the mouse pointer around the center of the screen to stop the computer going idle
+Inputs are interations and time(sec), without these the defaults are 120 iterations of 60 seconds
+
+example: python movemouse.py 12 600   
 """
 
 import sys
