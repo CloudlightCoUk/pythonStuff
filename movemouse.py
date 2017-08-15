@@ -13,8 +13,8 @@ from random import randint
 from pynput.mouse import Controller
 
 mouse = Controller()
-i = 120
-t = 60
+i = 240
+t = 120
 
 try:
 	i = int(sys.argv[1])
